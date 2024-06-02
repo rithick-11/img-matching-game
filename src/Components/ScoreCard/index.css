@@ -1,0 +1,8 @@
+.score-card-bg {
+  height: 80vh;
+  width: 70vw;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-sm-bg.png');
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
